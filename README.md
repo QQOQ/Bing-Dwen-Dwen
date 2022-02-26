@@ -5,4 +5,4 @@
 
 预览图
 
-![](Images/bingdundun.png)
+![](https://github.com/QQOQ/Bing-Dwen-Dwen/raw/main/bingdundun.png)
