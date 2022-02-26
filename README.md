@@ -5,4 +5,4 @@
 
 预览图
 
-![](https://gitee.com/qqoq/bing-dwen-dwen/raw/master/bingdundun.png)
+![](Images/bingdundun.png)
